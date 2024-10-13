@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-13T21:28:59 CEST" name="Default suite" finished-at="2024-10-13T21:29:32 CEST" duration-ms="33086">
+    <groups>
+    </groups>
+    <test started-at="2024-10-13T21:28:59 CEST" name="Default test" finished-at="2024-10-13T21:29:32 CEST" duration-ms="33086">
+      <class name="com.qa.petClinic.tests.HomePageTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.petClinic.tests.HomePageTests@14028087]" started-at="2024-10-13T21:29:11 CEST" name="setup" finished-at="2024-10-13T21:29:13 CEST" duration-ms="2371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkNavigateToOwnersPage()[pri:0, instance:com.qa.petClinic.tests.HomePageTests@14028087]" started-at="2024-10-13T21:29:13 CEST" name="checkNavigateToOwnersPage" finished-at="2024-10-13T21:29:14 CEST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNavigateToOwnersPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.petClinic.tests.HomePageTests@14028087]" started-at="2024-10-13T21:29:14 CEST" name="tearDown" finished-at="2024-10-13T21:29:14 CEST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.petClinic.tests.HomePageTests@14028087]" started-at="2024-10-13T21:29:14 CEST" name="setup" finished-at="2024-10-13T21:29:17 CEST" duration-ms="2390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTitleCheck()[pri:0, instance:com.qa.petClinic.tests.HomePageTests@14028087]" started-at="2024-10-13T21:29:17 CEST" name="homePageTitleCheck" finished-at="2024-10-13T21:29:17 CEST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleCheck -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.petClinic.tests.HomePageTests@14028087]" started-at="2024-10-13T21:29:17 CEST" name="tearDown" finished-at="2024-10-13T21:29:17 CEST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.petClinic.tests.HomePageTests@14028087]" started-at="2024-10-13T21:29:17 CEST" name="setup" finished-at="2024-10-13T21:29:20 CEST" duration-ms="2640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageUrlCheck()[pri:0, instance:com.qa.petClinic.tests.HomePageTests@14028087]" started-at="2024-10-13T21:29:20 CEST" name="homePageUrlCheck" finished-at="2024-10-13T21:29:20 CEST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageUrlCheck -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.petClinic.tests.HomePageTests@14028087]" started-at="2024-10-13T21:29:20 CEST" name="tearDown" finished-at="2024-10-13T21:29:20 CEST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.petClinic.tests.HomePageTests -->
+      <class name="com.qa.petClinic.tests.OwnersPageTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.petClinic.tests.OwnersPageTests@1972e513]" started-at="2024-10-13T21:29:20 CEST" name="setup" finished-at="2024-10-13T21:29:23 CEST" duration-ms="2286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addNewOwnerFromUi()[pri:0, instance:com.qa.petClinic.tests.OwnersPageTests@1972e513]" started-at="2024-10-13T21:29:23 CEST" name="addNewOwnerFromUi" finished-at="2024-10-13T21:29:27 CEST" duration-ms="4289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewOwnerFromUi -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.petClinic.tests.OwnersPageTests@1972e513]" started-at="2024-10-13T21:29:27 CEST" name="tearDown" finished-at="2024-10-13T21:29:27 CEST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.petClinic.tests.OwnersPageTests@1972e513]" started-at="2024-10-13T21:29:27 CEST" name="setup" finished-at="2024-10-13T21:29:30 CEST" duration-ms="2323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidNameAdditionThrowsErrorFromUi()[pri:0, instance:com.qa.petClinic.tests.OwnersPageTests@1972e513]" started-at="2024-10-13T21:29:30 CEST" name="invalidNameAdditionThrowsErrorFromUi" finished-at="2024-10-13T21:29:31 CEST" duration-ms="952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidNameAdditionThrowsErrorFromUi -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.petClinic.tests.OwnersPageTests@1972e513]" started-at="2024-10-13T21:29:31 CEST" name="tearDown" finished-at="2024-10-13T21:29:31 CEST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.petClinic.tests.OwnersPageTests -->
+      <class name="com.qa.petClinic.tests.OwnersEndpointApiWithUITests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.petClinic.tests.OwnersEndpointApiWithUITests@3f1d2e23]" started-at="2024-10-13T21:28:59 CEST" name="setup" finished-at="2024-10-13T21:29:09 CEST" duration-ms="10169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createOwnerFromUiAndDeleteOwnerByIdFromApi()[pri:0, instance:com.qa.petClinic.tests.OwnersEndpointApiWithUITests@3f1d2e23]" started-at="2024-10-13T21:29:31 CEST" name="createOwnerFromUiAndDeleteOwnerByIdFromApi" finished-at="2024-10-13T21:29:32 CEST" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOwnerFromUiAndDeleteOwnerByIdFromApi -->
+        <test-method signature="ownersApiStatusCheck()[pri:0, instance:com.qa.petClinic.tests.OwnersEndpointApiWithUITests@3f1d2e23]" started-at="2024-10-13T21:29:32 CEST" name="ownersApiStatusCheck" finished-at="2024-10-13T21:29:32 CEST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ownersApiStatusCheck -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.petClinic.tests.OwnersEndpointApiWithUITests@3f1d2e23]" started-at="2024-10-13T21:29:32 CEST" name="tearDown" finished-at="2024-10-13T21:29:32 CEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.petClinic.tests.OwnersEndpointApiWithUITests -->
+      <class name="com.qa.petClinic.tests.PetEndpointApiTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.petClinic.tests.PetEndpointApiTests@536dbea0]" started-at="2024-10-13T21:29:09 CEST" name="setup" finished-at="2024-10-13T21:29:10 CEST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getPetNameByIdFromApi()[pri:0, instance:com.qa.petClinic.tests.PetEndpointApiTests@536dbea0]" started-at="2024-10-13T21:29:32 CEST" name="getPetNameByIdFromApi" finished-at="2024-10-13T21:29:32 CEST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPetNameByIdFromApi -->
+        <test-method signature="petsApiStatusCheck()[pri:0, instance:com.qa.petClinic.tests.PetEndpointApiTests@536dbea0]" started-at="2024-10-13T21:29:32 CEST" name="petsApiStatusCheck" finished-at="2024-10-13T21:29:32 CEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- petsApiStatusCheck -->
+        <test-method signature="updatePetNameByIdFromApi()[pri:0, instance:com.qa.petClinic.tests.PetEndpointApiTests@536dbea0]" started-at="2024-10-13T21:29:32 CEST" name="updatePetNameByIdFromApi" finished-at="2024-10-13T21:29:32 CEST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePetNameByIdFromApi -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.petClinic.tests.PetEndpointApiTests@536dbea0]" started-at="2024-10-13T21:29:32 CEST" name="tearDown" finished-at="2024-10-13T21:29:32 CEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.petClinic.tests.PetEndpointApiTests -->
+      <class name="com.qa.petClinic.tests.PetTypesEndpointApiTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.petClinic.tests.PetTypesEndpointApiTests@47c81abf]" started-at="2024-10-13T21:29:10 CEST" name="setup" finished-at="2024-10-13T21:29:11 CEST" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="petTypesApiStatusCheck()[pri:0, instance:com.qa.petClinic.tests.PetTypesEndpointApiTests@47c81abf]" started-at="2024-10-13T21:29:32 CEST" name="petTypesApiStatusCheck" finished-at="2024-10-13T21:29:32 CEST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- petTypesApiStatusCheck -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.petClinic.tests.PetTypesEndpointApiTests@47c81abf]" started-at="2024-10-13T21:29:32 CEST" name="tearDown" finished-at="2024-10-13T21:29:32 CEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.petClinic.tests.PetTypesEndpointApiTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
